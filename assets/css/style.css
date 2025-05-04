@@ -554,12 +554,7 @@ section .container {
     font-size: 20px;
   }
 }
-.icon-box {
-  min-height: 300px; /* Ensure all boxes are the same size */
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
+
 /*--------------------------------------------------------------
 # Interests
 --------------------------------------------------------------*/
